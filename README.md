@@ -1,3 +1,3 @@
-# PRIEYECTO FINAL 
+# PROYECTO FINAL 
 
 -- Rizo Quintero Juan Pablo
